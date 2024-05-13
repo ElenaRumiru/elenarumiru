@@ -5,20 +5,22 @@
 <a href="https://www.linkedin.com/in/elena-rumiru/" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
 </div>
 
-<img src='https://github.com/ElenaRumiru/elenarumiru/blob/main/assets/giphy.gif' align='left'>
+<img src='https://github.com/ElenaRumiru/elenarumiru/blob/main/assets/giphy(1).gif' align='left'>
 
-### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
-- :school: I'm [Keshav Singh](https://keshavsingh4522.github.io/), have pursued B.Tech(CSE) from <a href="https://jecrcfoundation.com/">@JECRC  </a>
-- 🔭 I’m currently working on  **Backend Development**
+### Hi everyone! 👋  
+- :school: I'm [Elena Rumiantseva](https://github.com/ElenaRumiru), and I live in the Netherlands
+- 🔭 I’m currently working on  **Frontend Development**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
-- 🌱 I’m currently Working with tech Microservice,**AWS,.Net Core**
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭
+- 🌱 I’m currently looking for job in the Netherlands as **Junior Frontend Developer**
+- :heart: I like science, music, my family and my dog.
 - 💬 Ask me about anything, I am happy to help
-- 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
-- :bulb: Occasionally I do participate in **Hackathons**
-- 👨 Know more about me at [Sourcerer](https://sourcerer.io/keshavsingh4522) 
+- 😄 Pronouns: **She, Her** and **Sunshine**
+- 
+<!-- - 👨 Know more about me at [Sourcerer](https://sourcerer.io/keshavsingh4522) 
 - 🌐 Visit my [porfolio website](https://keshavsingh4522.github.io/) for complete background and contact.
-- :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)****
+- :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)**** -->
+
+<br>
 
 ### My contacts:
 
