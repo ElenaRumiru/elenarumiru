@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/elena-rumiru/" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
 </div>
 
-<img src='https://github.com/ElenaRumiru/elenarumiru/blob/main/assets/giphy(1).gif' align='left'>
+<img src='https://github.com/ElenaRumiru/elenarumiru/blob/main/assets/giphy%20(1).gif' align='left'>
 
 ### Hi everyone! 👋  
 - :school: I'm [Elena Rumiantseva](https://github.com/ElenaRumiru), and I live in the Netherlands
