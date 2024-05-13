@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/elena-rumiru/" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
 </div>
 
-<img src='https://github.com/ElenaRumiru/elenarumiru/blob/main/assets/giphy(1).gif' align='left'>
+<img src='https://github.com/ElenaRumiru/elenarumiru/blob/main/assets/giphy.gif' align='left'>
 
 ### Hi everyone! 👋  
 - :school: I'm [Elena Rumiantseva](https://github.com/ElenaRumiru), and I live in the Netherlands
@@ -15,11 +15,12 @@
 - :heart: I like science, music, my family and my dog.
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **She, Her** and **Sunshine**
-- 
 <!-- - 👨 Know more about me at [Sourcerer](https://sourcerer.io/keshavsingh4522) 
 - 🌐 Visit my [porfolio website](https://keshavsingh4522.github.io/) for complete background and contact.
 - :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)**** -->
 
+<br>
+<br>
 <br>
 
 ### My contacts:
