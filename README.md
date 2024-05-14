@@ -6,7 +6,7 @@
 
 <img src='https://github.com/ElenaRumiru/elenarumiru/blob/main/assets/giphy.gif' align='left'>
 
-<br><br><br><br>
+<br><br>
 
 ### Hi everyone! 👋  
 - :school: I'm [Elena Rumiantseva](https://github.com/ElenaRumiru), and I live in **the Netherlands**
@@ -20,7 +20,7 @@
 - 😄 Pronouns: **She, Her** and **Sunshine**
 
 <br>
-<br><br><br><br>
+<br><br>
 
 
 ### My pet-projects
