@@ -1,28 +1,35 @@
 
 <div align='center'><h1> Elena Rumiantseva (Ilinskaya) :pray:</h1></div>
 <div align="center">
-<a href="https://www.linkedin.com/in/elena-rumiru/" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
+<a href="https://www.linkedin.com/in/elena-rumiru/" target="_blank" rel="nofollow"><img align="right" alt="Elena-Rumiru Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
 </div>
 
 <img src='https://github.com/ElenaRumiru/elenarumiru/blob/main/assets/giphy.gif' align='left'>
 
-## Hi everyone! 👋  
-- :school: I'm [Elena Rumiantseva](https://github.com/ElenaRumiru), and I live in the Netherlands
+### Hi everyone! 👋  
+- :school: I'm [Elena Rumiantseva](https://github.com/ElenaRumiru), and I live in **the Netherlands**
 - 🔭 I’m currently working on  **Frontend Development**
 - :relaxed: I love game industry and dream to work there
 - :smirk_cat: I like to create interesting pet-projects
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - :eyes: I’m looking for job in the Netherlands as **Junior Frontend Developer**
-- :heart: I like science, music, my family and my dog.
+- :heart: I like science, music, my family and my dog
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **She, Her** and **Sunshine**
-<!-- - 👨 Know more about me at [Sourcerer](https://sourcerer.io/keshavsingh4522) 
-- 🌐 Visit my [porfolio website](https://keshavsingh4522.github.io/) for complete background and contact.
-- :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)**** -->
 
-<br>
-<br>
-<br>
+### My pet-projects
+- [Netflix Clone](https://github.com/ElenaRumiru/netflix-clone) and [Demo](https://netflix-clone-83226.web.app/)
+- [Bisualization of Sorting](https://github.com/ElenaRumiru/Visualization-of-Sorting) and [Demo](https://elenarumiru.github.io/Visualization-of-Sorting/)
+- [Kanban Board](https://github.com/ElenaRumiru/Kanban-board) and [Demo](https://elenarumiru.github.io/Kanban-board/)
+- [Game: "Tetris"](https://github.com/ElenaRumiru/Tetris-game) and [Demo](https://elenarumiru.github.io/Tetris-game/)
+- [Game "Tic Tac Toe"](https://github.com/ElenaRumiru/Tic-Tac-Toe-game) and [Demo](https://elenarumiru.github.io/Tic-Tac-Toe-game/)
+- [Wildberries Basket Clone](https://github.com/ElenaRumiru/Wildberries-clone) and [Demo](https://elenarumiru.github.io/Wildberries-clone/)
+- [Keksobooking](https://github.com/ElenaRumiru/Keksobooking) and [Demo](https://elenarumiru.github.io/Keksobooking/)
+- [Demo game "Code and Magic"](https://github.com/ElenaRumiru/Code-and-magic) and [Demo](https://elenarumiru.github.io/Code-and-magic/)
+- [Game: "Guess the number"](https://github.com/ElenaRumiru/Guess-the-number)
+- [Weather Forecast](https://github.com/ElenaRumiru/Weather-react-app) 
+
+
 
 ### My contacts
 
