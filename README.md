@@ -17,6 +17,10 @@
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **She, Her** and **Sunshine**
 
+<br>
+<br><br><br><br><br><br>
+
+
 ### My pet-projects
 - [Netflix Clone](https://github.com/ElenaRumiru/netflix-clone) and [Demo](https://netflix-clone-83226.web.app/)
 - [Bisualization of Sorting](https://github.com/ElenaRumiru/Visualization-of-Sorting) and [Demo](https://elenarumiru.github.io/Visualization-of-Sorting/)
