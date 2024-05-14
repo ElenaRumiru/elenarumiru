@@ -26,7 +26,7 @@
 
 ### My pet-projects
 - [Netflix Clone](https://github.com/ElenaRumiru/netflix-clone) and [Demo](https://netflix-clone-83226.web.app/)
-- [Bisualization of Sorting](https://github.com/ElenaRumiru/Visualization-of-Sorting) and [Demo](https://elenarumiru.github.io/Visualization-of-Sorting/)
+- [Visualization of Sorting](https://github.com/ElenaRumiru/Visualization-of-Sorting) and [Demo](https://elenarumiru.github.io/Visualization-of-Sorting/)
 - [Kanban Board](https://github.com/ElenaRumiru/Kanban-board) and [Demo](https://elenarumiru.github.io/Kanban-board/)
 - [Game: "Tetris"](https://github.com/ElenaRumiru/Tetris-game) and [Demo](https://elenarumiru.github.io/Tetris-game/)
 - [Game "Tic Tac Toe"](https://github.com/ElenaRumiru/Tic-Tac-Toe-game) and [Demo](https://elenarumiru.github.io/Tic-Tac-Toe-game/)
