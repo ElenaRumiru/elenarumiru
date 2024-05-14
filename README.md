@@ -1,14 +1,15 @@
 
 <div align='center'><h1> Elena Rumiantseva (Ilinskaya) :pray:</h1></div>
 <div align="center">
-<a href="https://www.linkedin.com/in/elena-rumiru/" target="_blank" rel="nofollow"><img align="right" alt="Elena-Rumiru Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
+
 </div>
 
-<img src='https://github.com/ElenaRumiru/elenarumiru/blob/main/assets/giphy.gif' align='left' width="380px">
+<img src='https://github.com/ElenaRumiru/elenarumiru/blob/main/assets/giphy.gif' align='left'>
 
 
 
 ### Hi everyone! 👋  
+<a href="https://www.linkedin.com/in/elena-rumiru/" target="_blank" rel="nofollow"><img align="right" alt="Elena-Rumiru Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
 - :school: I'm [Elena Rumiantseva](https://github.com/ElenaRumiru), and I live in **the Netherlands**
 - 🔭 I’m currently working on  **Frontend Development**
 - :relaxed: I love game industry and dream to work there
