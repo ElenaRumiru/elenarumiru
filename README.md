@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <div align='center'><h1> Elena Rumiantseva (Ilinskaya) :pray:</h1></div>
 <div align="center">
@@ -7,11 +6,13 @@
 
 <img src='https://github.com/ElenaRumiru/elenarumiru/blob/main/assets/giphy.gif' align='left'>
 
-### Hi everyone! 👋  
+## Hi everyone! 👋  
 - :school: I'm [Elena Rumiantseva](https://github.com/ElenaRumiru), and I live in the Netherlands
 - 🔭 I’m currently working on  **Frontend Development**
+- :relaxed: I love game industry and dream to work there
+- :smirk_cat: I like to create interesting pet-projects
 - :neutral_face: I have a **love/hate** relationship with **Programming**
-- 🌱 I’m currently looking for job in the Netherlands as **Junior Frontend Developer**
+- :eyes: I’m looking for job in the Netherlands as **Junior Frontend Developer**
 - :heart: I like science, music, my family and my dog.
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **She, Her** and **Sunshine**
