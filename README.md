@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/elena-rumiru/" target="_blank" rel="nofollow"><img align="right" alt="Elena-Rumiru Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
 </div>
 
-<img src='https://github.com/ElenaRumiru/elenarumiru/blob/main/assets/giphy.gif' align='left' max-width="380px">
+<img src='https://github.com/ElenaRumiru/elenarumiru/blob/main/assets/giphy.gif' align='left' width="380px">
 
 
 
