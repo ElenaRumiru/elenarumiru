@@ -23,6 +23,11 @@
 
 <br>
 
+### My Game Design projects
+- [Concept document of the party game "Frendzy"](https://shelled-eyelash-df1.notion.site/Frendzy-party-game-ea84fb3e6ebe4647b887ebb69f9bf846)
+- [Pitch document of acrobatic shooter "Neon Nexus" (RU/ENG)](https://shelled-eyelash-df1.notion.site/Frendzy-party-game-ea84fb3e6ebe4647b887ebb69f9bf846)
+- [MDA Decomposition of "Gardenscapes" Playrix (RU)](https://shelled-eyelash-df1.notion.site/Gardenscapes-MDA-729f2c41ca16461e8eb0209de52238e3)
+
 
 ### My JavaScript pet-projects
 - [Demo game "Code and Magic"](https://github.com/ElenaRumiru/Code-and-magic) and [Demo](https://elenarumiru.github.io/Code-and-magic/)
@@ -35,11 +40,6 @@
 - [Wildberries Basket Clone](https://github.com/ElenaRumiru/Wildberries-clone) and [Demo](https://elenarumiru.github.io/Wildberries-clone/)
 - [Keksobooking](https://github.com/ElenaRumiru/Keksobooking) and [Demo](https://elenarumiru.github.io/Keksobooking/)
 - [Weather Forecast](https://github.com/ElenaRumiru/Weather-react-app) 
-
-### My Game Design projects
-- [Concept document of the party game "Frendzy"](https://shelled-eyelash-df1.notion.site/Frendzy-party-game-ea84fb3e6ebe4647b887ebb69f9bf846)
-- [Pitch document of acrobatic shooter "Neon Nexus" (RU/ENG)](https://shelled-eyelash-df1.notion.site/Frendzy-party-game-ea84fb3e6ebe4647b887ebb69f9bf846)
-- [MDA Decomposition of "Gardenscapes" Playrix (RU)](https://shelled-eyelash-df1.notion.site/Gardenscapes-MDA-729f2c41ca16461e8eb0209de52238e3)
 
 
 ### My contacts
