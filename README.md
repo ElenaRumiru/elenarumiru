@@ -12,12 +12,12 @@
 ### Hi everyone! 👋  
 
 - :school: I'm [Elena Rumiantseva](https://github.com/ElenaRumiru), and I live in **the Netherlands**
-- 🔭 I’m currently working on  **Frontend Development**
+- 🔭 I’m currently working on  **Game Design**
 - :relaxed: I love game industry and dream to work there
 - :smirk_cat: I like to create interesting pet-projects
-- :neutral_face: I have a **love/hate** relationship with **Programming**
+- :neutral_face: I am ex Frontend Developer and I have a **love/hate** relationship with **Programming**
 - :eyes: I’m looking for job in the Netherlands as **Junior Frontend Developer**
-- :heart: I like science, music, my family and my dog
+- :heart: I like games, DnD, science, music, my family and my dog
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **She, Her** and **Sunshine**
 
@@ -25,17 +25,21 @@
 
 
 ### My pet-projects
+- [Demo game "Code and Magic"](https://github.com/ElenaRumiru/Code-and-magic) and [Demo](https://elenarumiru.github.io/Code-and-magic/)
+- [Game: "Tetris"](https://github.com/ElenaRumiru/Tetris-game) and [Demo](https://elenarumiru.github.io/Tetris-game/)
+- [Game "Tic Tac Toe"](https://github.com/ElenaRumiru/Tic-Tac-Toe-game) and [Demo](https://elenarumiru.github.io/Tic-Tac-Toe-game/)
+- [Game: "Guess the number"](https://github.com/ElenaRumiru/Guess-the-number)
 - [Netflix Clone](https://github.com/ElenaRumiru/netflix-clone) and [Demo](https://netflix-clone-83226.web.app/)
 - [Visualization of Sorting](https://github.com/ElenaRumiru/Visualization-of-Sorting) and [Demo](https://elenarumiru.github.io/Visualization-of-Sorting/)
 - [Kanban Board](https://github.com/ElenaRumiru/Kanban-board) and [Demo](https://elenarumiru.github.io/Kanban-board/)
-- [Game: "Tetris"](https://github.com/ElenaRumiru/Tetris-game) and [Demo](https://elenarumiru.github.io/Tetris-game/)
-- [Game "Tic Tac Toe"](https://github.com/ElenaRumiru/Tic-Tac-Toe-game) and [Demo](https://elenarumiru.github.io/Tic-Tac-Toe-game/)
 - [Wildberries Basket Clone](https://github.com/ElenaRumiru/Wildberries-clone) and [Demo](https://elenarumiru.github.io/Wildberries-clone/)
 - [Keksobooking](https://github.com/ElenaRumiru/Keksobooking) and [Demo](https://elenarumiru.github.io/Keksobooking/)
-- [Demo game "Code and Magic"](https://github.com/ElenaRumiru/Code-and-magic) and [Demo](https://elenarumiru.github.io/Code-and-magic/)
-- [Game: "Guess the number"](https://github.com/ElenaRumiru/Guess-the-number)
 - [Weather Forecast](https://github.com/ElenaRumiru/Weather-react-app) 
 
+### My Game Design projects
+- [Concept document of the party game "Frendzy"](https://shelled-eyelash-df1.notion.site/Frendzy-party-game-ea84fb3e6ebe4647b887ebb69f9bf846)
+- [Pitch document of acrobatic shooter "Neon Nexus" (RU/ENG)](https://shelled-eyelash-df1.notion.site/Frendzy-party-game-ea84fb3e6ebe4647b887ebb69f9bf846)
+- [MDA Decomposition of "Gardenscapes" Playrix (RU)](https://shelled-eyelash-df1.notion.site/Gardenscapes-MDA-729f2c41ca16461e8eb0209de52238e3)
 
 
 ### My contacts
