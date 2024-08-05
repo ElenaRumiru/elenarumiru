@@ -24,7 +24,7 @@
 <br>
 
 
-### My pet-projects
+### My JavaScript pet-projects
 - [Demo game "Code and Magic"](https://github.com/ElenaRumiru/Code-and-magic) and [Demo](https://elenarumiru.github.io/Code-and-magic/)
 - [Game: "Tetris"](https://github.com/ElenaRumiru/Tetris-game) and [Demo](https://elenarumiru.github.io/Tetris-game/)
 - [Game "Tic Tac Toe"](https://github.com/ElenaRumiru/Tic-Tac-Toe-game) and [Demo](https://elenarumiru.github.io/Tic-Tac-Toe-game/)
