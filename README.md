@@ -16,7 +16,7 @@
 - :relaxed: I love game industry and dream to work there
 - :smirk_cat: I like to create interesting pet-projects
 - :neutral_face: I am ex Frontend Developer and I have a **love/hate** relationship with **Programming**
-- :eyes: I’m looking for job in the Netherlands as **Junior Frontend Developer**
+- :eyes: I’m looking for job as **Junior Game designer**
 - :heart: I like games, DnD, science, music, my family and my dog
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **She, Her** and **Sunshine**
