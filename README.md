@@ -27,6 +27,11 @@
 - [Concept document of the party game "Frendzy"](https://shelled-eyelash-df1.notion.site/Frendzy-party-game-ea84fb3e6ebe4647b887ebb69f9bf846)
 - [Pitch document of acrobatic shooter "Neon Nexus" (RU/ENG)](https://shelled-eyelash-df1.notion.site/Frendzy-party-game-ea84fb3e6ebe4647b887ebb69f9bf846)
 - [MDA Decomposition of "Gardenscapes" Playrix (RU)](https://shelled-eyelash-df1.notion.site/Gardenscapes-MDA-729f2c41ca16461e8eb0209de52238e3)
+- [Concept Document "Color Farm" (RU)](https://docs.google.com/document/d/1ZWd8mLBdHlb5rVn1TvgTNpfV_9rJHzwGC3LHfPhfY0k/edit?usp=sharing)
+- [Pitch Document "Color Farm" (RU)](https://docs.google.com/presentation/d/1DI7mUia1IZa7w_8IZ3LH2mIQ2_iSdP4eaKsVYGiKZ_4/edit?usp=sharing)
+- [One-Pager "Color Farm" (RU)](https://shelled-eyelash-df1.notion.site/Gardenscapes-MDA-729f2c41ca16461e8eb0209de52238e3)
+- [Play-test spreadsheet (RU)](https://docs.google.com/spreadsheets/d/1ujytySaGZqq9f3t0JxOiUuQojoay-qQMe3TlXy367zM/edit?usp=sharing)
+- [Play-test results presentation (RU)](https://docs.google.com/presentation/d/1kha7DCXmZ0djznM3_Z1iUaCH48dhl_kbIuRjk34ygvo/edit#slide=id.g301b8157a55_0_486)
 
 
 ### My JavaScript pet-projects
