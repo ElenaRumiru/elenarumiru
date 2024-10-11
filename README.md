@@ -16,7 +16,7 @@
 - :relaxed: I love game industry and dream to work there
 - :smirk_cat: I like to create interesting maps, stories, modules for DnD
 - :neutral_face: I worked as **Frontend Developer** and created game with JS
-- :eyes: I’m looking for job as **Junior Game designer**
+- :eyes: I’m looking for job as **Game designer**
 - :heart: I like games, DnD, science, music, my family and my dog
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **She, Her** and **Sunshine**
