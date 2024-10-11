@@ -14,7 +14,7 @@
 - :school: I'm [Elena Rumiantseva](https://github.com/ElenaRumiru), and I live in **the Netherlands**
 - 🔭 I’m currently working on  **Game Design**
 - :relaxed: I love game industry and dream to work there
-- :smirk_cat: I like to create interesting pet-projects
+- :smirk_cat: I like to create interesting maps, stories, modules for DnD
 - :neutral_face: I worked as **Frontend Developer** and created game with JS
 - :eyes: I’m looking for job as **Junior Game designer**
 - :heart: I like games, DnD, science, music, my family and my dog
