@@ -11,7 +11,7 @@
 
 ### Hi everyone! 👋  
 
-- :school: I'm [Elena Rumiantseva](https://github.com/ElenaRumiru), and I live in **the Netherlands**
+- :school: I'm [Elena Rumiantseva](https://github.com/ElenaRumiru), and I live in **Serbia**
 - 🔭 I’m currently working on  **Game Design**
 - :relaxed: I love game industry and dream to work there
 - :smirk_cat: I like to create interesting maps, stories, modules for DnD
