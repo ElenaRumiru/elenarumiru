@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on  **Game Design**
 - :relaxed: I like game industry and create games and systems
 - :neutral_face: 2 years I worked as **Frontend Developer** and created game with JS
-- :eyes: I’m looking for job as **Game designer**
+- :eyes: I’m looking for job as **Game designer** and **Feature Owner**
 - :heart: I like games, DnD, science, music, my family and my dog
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **She, Her** and **Sunshine**
