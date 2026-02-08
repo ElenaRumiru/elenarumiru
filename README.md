@@ -37,13 +37,13 @@
 - [Market Research - Supermarket Simulators (RU)](https://docs.google.com/document/d/1_kQGqed94jlkP4kqiCcK5RfQqHPqEMR82quVYg8_kws/edit?tab=t.0)
 
 ### Testing Assignments
-1. Balance Game Designer - Company
+**1. Balance Game Designer - Company**
 - [Testing Assignment](https://)
 - [Final Decision](https://docs.google.com/spreadsheets/d/1SPWIJ5asrTNzTQaG4Rehg-Thwd2oeo_BN7PVydV3voU/edit?usp=sharing)
-2. Monetization Game Designer - BANZAI GAMES
+**2. Monetization Game Designer - BANZAI GAMES**
 - [Testing Assignment](https://docs.google.com/document/d/e/2PACX-1vQ5Q4BvHEctj4axx9bto4vHLamVga2OM7tfpC0duy9lYNmFveGeLH1aODV1WvawEfKO7s6c3hPOYcCv/pub)
 - [Final Decision](https://docs.google.com/document/d/10G3KaQdV55pXkCWcF1QYG-PmvIZzL4dOYN2Gl1f7af4/edit?usp=sharing)
-3. Game Designer - Crazy Panda
+**3. Game Designer - Crazy Panda**
 - [Testing Assignment](https://drive.google.com/file/d/1vAyFfLdhuZYH4zCh9aznNGWwuGzdz6CP/view?usp=sharing)
 - [Final Decision](https://docs.google.com/document/d/1Dq9A7cdGAhdh5uzIZbFT-fsuHkkpkCks5RKkqh42x3k/edit?usp=sharing)
 
