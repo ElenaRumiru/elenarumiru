@@ -37,7 +37,7 @@
 - [Market Research - Supermarket Simulators (RU)](https://docs.google.com/document/d/1_kQGqed94jlkP4kqiCcK5RfQqHPqEMR82quVYg8_kws/edit?tab=t.0)
 
 
-### Old Other Projects
+### Other GD Projects
 - [Concept document of the party game "Frendzy"](https://shelled-eyelash-df1.notion.site/Frendzy-party-game-ea84fb3e6ebe4647b887ebb69f9bf846)
 - [Pitch document of acrobatic shooter "Neon Nexus" (RU/ENG)](https://shelled-eyelash-df1.notion.site/Frendzy-party-game-ea84fb3e6ebe4647b887ebb69f9bf846)
 - [Concept Document "Color Farm" (RU)](https://docs.google.com/document/d/1ZWd8mLBdHlb5rVn1TvgTNpfV_9rJHzwGC3LHfPhfY0k/edit?usp=sharing)
@@ -82,7 +82,7 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/AI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 <!--
