@@ -76,7 +76,7 @@
 
 ### Technologies and Instruments
 
-![Spreadsheets](https://img.shields.io/badge/Spreadsheets-6DA55F?style=for-the-badg&logoColor=white)
+![Spreadsheets](https://img.shields.io/badge/Spreadsheets-6DA55F?style=for-the-badge&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-4B3263?style=for-the-badge&logoColor=white)
 ![UnrealEngine](https://img.shields.io/badge/UnrealEngine-%23CB3837.svg?style=for-the-badge&logoColor=white)
 ![RobloxStudio](https://img.shields.io/badge/RobloxStudio-%232C8EBB.svg?style=for-the-badge&logoColor=white)
