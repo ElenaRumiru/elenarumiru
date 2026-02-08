@@ -76,13 +76,13 @@
 
 ### Technologies and Instruments
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Spreadsheets](https://img.shields.io/badge/Spreadsheets-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![UnrealEngine](https://img.shields.io/badge/UnrealEngine-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![RobloxStudio](https://img.shields.io/badge/RobloxStudio-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![ChatGPT](https://img.shields.io/badge/AI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![AI](https://img.shields.io/badge/AI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 <!--
