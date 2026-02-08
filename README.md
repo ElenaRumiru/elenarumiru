@@ -20,11 +20,11 @@
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **She, Her** and **Sunshine**
 
-<br>
+<br><br>
 
 ### My own games (Owner and Developer)
 - [SNOOZE TAG - Roblox (Owner)](https://www.roblox.com/games/123622191911900/SNOOZE-TAG)
-- [Demo game "Code and Magic"](https://github.com/ElenaRumiru/Code-and-magic) and [Demo](https://elenarumiru.github.io/Code-and-magic/)
+- [Game "Code and Magic"](https://github.com/ElenaRumiru/Code-and-magic) and [Demo](https://elenarumiru.github.io/Code-and-magic/)
 - [Game: "Tetris"](https://github.com/ElenaRumiru/Tetris-game) and [Demo](https://elenarumiru.github.io/Tetris-game/)
 - [Game "Tic Tac Toe"](https://github.com/ElenaRumiru/Tic-Tac-Toe-game) and [Demo](https://elenarumiru.github.io/Tic-Tac-Toe-game/)
 - [Game: "Guess the number"](https://github.com/ElenaRumiru/Guess-the-number)
@@ -36,10 +36,19 @@
 - [Game Decomposition "Dandy`s World" (RU)](https://docs.google.com/document/d/1F92PDn06rQrxeGYZhBQb_JqJ4DbNIEPm-YVSyQ4TerE/edit?tab=t.0#heading=h.rxieum4nf3i3)
 - [Market Research - Supermarket Simulators (RU)](https://docs.google.com/document/d/1_kQGqed94jlkP4kqiCcK5RfQqHPqEMR82quVYg8_kws/edit?tab=t.0)
 
+### Testing Assignments
+1. Balance Game Designer - Company
+- [Testing Assignment](https://)
+- [Final Decision](https://docs.google.com/spreadsheets/d/1SPWIJ5asrTNzTQaG4Rehg-Thwd2oeo_BN7PVydV3voU/edit?usp=sharing)
+2. Monetization Game Designer - [BANZAI GAMES](https://banzai.games/)
+- [Testing Assignment](https://docs.google.com/document/d/e/2PACX-1vQ5Q4BvHEctj4axx9bto4vHLamVga2OM7tfpC0duy9lYNmFveGeLH1aODV1WvawEfKO7s6c3hPOYcCv/pub)
+- [Final Decision](https://docs.google.com/document/d/10G3KaQdV55pXkCWcF1QYG-PmvIZzL4dOYN2Gl1f7af4/edit?usp=sharing)
+3. Game Designer - [Crazy Panda](https://crazypandagames.com/en/)
+- [Testing Assignment](https://drive.google.com/file/d/1vAyFfLdhuZYH4zCh9aznNGWwuGzdz6CP/view?usp=sharing)
+- [Final Decision](https://docs.google.com/document/d/1Dq9A7cdGAhdh5uzIZbFT-fsuHkkpkCks5RKkqh42x3k/edit?usp=sharing)
+
 
 ### Other GD Projects
-- [Concept document of the party game "Frendzy"](https://shelled-eyelash-df1.notion.site/Frendzy-party-game-ea84fb3e6ebe4647b887ebb69f9bf846)
-- [Pitch document of acrobatic shooter "Neon Nexus" (RU/ENG)](https://shelled-eyelash-df1.notion.site/Frendzy-party-game-ea84fb3e6ebe4647b887ebb69f9bf846)
 - [Concept Document "Color Farm" (RU)](https://docs.google.com/document/d/1ZWd8mLBdHlb5rVn1TvgTNpfV_9rJHzwGC3LHfPhfY0k/edit?usp=sharing)
 - [Pitch Document "Color Farm" (RU)](https://docs.google.com/presentation/d/1DI7mUia1IZa7w_8IZ3LH2mIQ2_iSdP4eaKsVYGiKZ_4/edit?usp=sharing)
 - [One-Pager "Color Farm" (RU)](https://shelled-eyelash-df1.notion.site/Gardenscapes-MDA-729f2c41ca16461e8eb0209de52238e3)
@@ -71,10 +80,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-%238511FA.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%238511FA.svg?style=for-the-badge&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23E34F26.svg?style=for-the-badge&logoColor=white)
 
 ### Technologies and Instruments
 
