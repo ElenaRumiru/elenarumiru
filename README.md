@@ -13,9 +13,8 @@
 
 - :school: I'm [Elena Rumiantseva](https://github.com/ElenaRumiru), and I live in **Serbia**
 - 🔭 I’m currently working on  **Game Design**
-- :relaxed: I love game industry and dream to work there
-- :smirk_cat: I like to create interesting maps, stories, modules for DnD
-- :neutral_face: I worked as **Frontend Developer** and created game with JS
+- :relaxed: I like game industry and create games and systems
+- :neutral_face: 2 years I worked as **Frontend Developer** and created game with JS
 - :eyes: I’m looking for job as **Game designer**
 - :heart: I like games, DnD, science, music, my family and my dog
 - 💬 Ask me about anything, I am happy to help
@@ -23,10 +22,24 @@
 
 <br>
 
-### My Game Design projects
+### My own games (Owner and Developer)
+- [SNOOZE TAG - Roblox (Owner)](https://www.roblox.com/games/123622191911900/SNOOZE-TAG)
+- [Demo game "Code and Magic"](https://github.com/ElenaRumiru/Code-and-magic) and [Demo](https://elenarumiru.github.io/Code-and-magic/)
+- [Game: "Tetris"](https://github.com/ElenaRumiru/Tetris-game) and [Demo](https://elenarumiru.github.io/Tetris-game/)
+- [Game "Tic Tac Toe"](https://github.com/ElenaRumiru/Tic-Tac-Toe-game) and [Demo](https://elenarumiru.github.io/Tic-Tac-Toe-game/)
+- [Game: "Guess the number"](https://github.com/ElenaRumiru/Guess-the-number)
+
+### My Game Documentation Examples
+- [Game Decomposition "Fisch" (Roblox) (RU)](https://docs.google.com/document/d/1xinfwa7NEBDfI9mnXTgu8eVhA6cZ0KNSS7dc9Ss72Yw/edit?usp=sharing)
+- [Game Decomposition "Monopoly GO" (RU)](https://docs.google.com/document/d/1bOqZUBbqpqLTOrvHpa6ndq2Xljz6wLyBcycFPrhzXCI/edit?tab=t.0#heading=h.rxieum4nf3i3)
+- [Game Decomposition "Township" (RU)](https://docs.google.com/document/d/1PwcPJEpSsANSXZGHiHQ9xgYu2ywxX7VMsw0wNp3Rf5I/edit?tab=t.0)
+- [Game Decomposition "Dandy`s World" (RU)](https://docs.google.com/document/d/1F92PDn06rQrxeGYZhBQb_JqJ4DbNIEPm-YVSyQ4TerE/edit?tab=t.0#heading=h.rxieum4nf3i3)
+- [Market Research - Supermarket Simulators (RU)](https://docs.google.com/document/d/1_kQGqed94jlkP4kqiCcK5RfQqHPqEMR82quVYg8_kws/edit?tab=t.0)
+
+
+### Old Other Projects
 - [Concept document of the party game "Frendzy"](https://shelled-eyelash-df1.notion.site/Frendzy-party-game-ea84fb3e6ebe4647b887ebb69f9bf846)
 - [Pitch document of acrobatic shooter "Neon Nexus" (RU/ENG)](https://shelled-eyelash-df1.notion.site/Frendzy-party-game-ea84fb3e6ebe4647b887ebb69f9bf846)
-- [MDA Decomposition of "Gardenscapes" Playrix (RU)](https://shelled-eyelash-df1.notion.site/Gardenscapes-MDA-729f2c41ca16461e8eb0209de52238e3)
 - [Concept Document "Color Farm" (RU)](https://docs.google.com/document/d/1ZWd8mLBdHlb5rVn1TvgTNpfV_9rJHzwGC3LHfPhfY0k/edit?usp=sharing)
 - [Pitch Document "Color Farm" (RU)](https://docs.google.com/presentation/d/1DI7mUia1IZa7w_8IZ3LH2mIQ2_iSdP4eaKsVYGiKZ_4/edit?usp=sharing)
 - [One-Pager "Color Farm" (RU)](https://shelled-eyelash-df1.notion.site/Gardenscapes-MDA-729f2c41ca16461e8eb0209de52238e3)
@@ -35,10 +48,6 @@
 
 
 ### My JavaScript pet-projects
-- [Demo game "Code and Magic"](https://github.com/ElenaRumiru/Code-and-magic) and [Demo](https://elenarumiru.github.io/Code-and-magic/)
-- [Game: "Tetris"](https://github.com/ElenaRumiru/Tetris-game) and [Demo](https://elenarumiru.github.io/Tetris-game/)
-- [Game "Tic Tac Toe"](https://github.com/ElenaRumiru/Tic-Tac-Toe-game) and [Demo](https://elenarumiru.github.io/Tic-Tac-Toe-game/)
-- [Game: "Guess the number"](https://github.com/ElenaRumiru/Guess-the-number)
 - [Netflix Clone](https://github.com/ElenaRumiru/netflix-clone) and [Demo](https://netflix-clone-83226.web.app/)
 - [Visualization of Sorting](https://github.com/ElenaRumiru/Visualization-of-Sorting) and [Demo](https://elenarumiru.github.io/Visualization-of-Sorting/)
 - [Kanban Board](https://github.com/ElenaRumiru/Kanban-board) and [Demo](https://elenarumiru.github.io/Kanban-board/)
