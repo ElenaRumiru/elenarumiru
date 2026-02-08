@@ -76,12 +76,12 @@
 
 ### Technologies and Instruments
 
-![Spreadsheets](https://img.shields.io/badge/Spreadsheets-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![UnrealEngine](https://img.shields.io/badge/UnrealEngine-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![RobloxStudio](https://img.shields.io/badge/RobloxStudio-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Spreadsheets](https://img.shields.io/badge/Spreadsheets-6DA55F?style=for-the-badg&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-4B3263?style=for-the-badge&logoColor=white)
+![UnrealEngine](https://img.shields.io/badge/UnrealEngine-%23CB3837.svg?style=for-the-badge&logoColor=white)
+![RobloxStudio](https://img.shields.io/badge/RobloxStudio-%232C8EBB.svg?style=for-the-badge&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Unity](https://img.shields.io/badge/unity-a08021?style=for-the-badge&logoColor=ffcd34)
 ![AI](https://img.shields.io/badge/AI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
