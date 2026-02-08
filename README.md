@@ -74,7 +74,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-%238511FA.svg?style=for-the-badge&logo=lua&logoColor=white)
-![C#](https://img.shields.io/badge/C#-%238511FA.svg?style=for-the-badge&logo=C#&logoColor=white)
+![C#](https://img.shields.io/badge/C#-%238511FA.svg?style=for-the-badge&logoColor=white)
 
 ### Technologies and Instruments
 
