@@ -23,8 +23,9 @@
 <br><br>
 
 ### My own games (Owner and Developer)
-- [Game: "Pets Roll"](https://github.com/ElenaRumiru/roll-pets) and [DEMO](https://elenarumiru.github.io/roll-pets/)
+- [Game: "Pets Roll"](https://github.com/ElenaRumiru/roll-pets) and [Demo](https://elenarumiru.github.io/roll-pets/)
 - [SNOOZE TAG - Roblox (Owner)](https://www.roblox.com/games/123622191911900/SNOOZE-TAG)
+- [Prototype: Time Manager Cafe](https://github.com/ElenaRumiru/BarPrototype) and [Demo](https://elenarumiru.github.io/BarPrototype/)
 - [Game "Code and Magic"](https://github.com/ElenaRumiru/Code-and-magic) and [Demo](https://elenarumiru.github.io/Code-and-magic/)
 - [Game: "Tetris"](https://github.com/ElenaRumiru/Tetris-game) and [Demo](https://elenarumiru.github.io/Tetris-game/)
 - [Game "Tic Tac Toe"](https://github.com/ElenaRumiru/Tic-Tac-Toe-game) and [Demo](https://elenarumiru.github.io/Tic-Tac-Toe-game/)
