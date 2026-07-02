@@ -26,10 +26,18 @@
 - [Game: "Pets Roll"](https://github.com/ElenaRumiru/roll-pets) and [Demo](https://elenarumiru.github.io/roll-pets/)
 - [SNOOZE TAG - Roblox (Owner)](https://www.roblox.com/games/123622191911900/SNOOZE-TAG)
 - [Prototype: Time Manager Cafe](https://github.com/ElenaRumiru/BarPrototype) and [Demo](https://elenarumiru.github.io/BarPrototype/)
+- [Dragon Go: Mobile Auto Battler](https://)
 - [Game "Code and Magic"](https://github.com/ElenaRumiru/Code-and-magic) and [Demo](https://elenarumiru.github.io/Code-and-magic/)
 - [Game: "Tetris"](https://github.com/ElenaRumiru/Tetris-game) and [Demo](https://elenarumiru.github.io/Tetris-game/)
 - [Game "Tic Tac Toe"](https://github.com/ElenaRumiru/Tic-Tac-Toe-game) and [Demo](https://elenarumiru.github.io/Tic-Tac-Toe-game/)
 - [Game: "Guess the number"](https://github.com/ElenaRumiru/Guess-the-number)
+
+### My AI pipelines
+- [1] [187 assets with 1 click](https://docs.google.com/document/d/127Q4bjAgrtvtf7D8RvLL-faGt2mJjtL-A50947vtkTs/edit?usp=sharing)
+- [2] [AI thumbnail Studio (Goal is CTR 1%+)](https://docs.google.com/document/d/1idkwmk6hu6dOKWa53zoANBbHx2S9sYVTJ-3ofS3o_ac/edit?usp=sharing)
+- [3] [How to create video using only code](https://docs.google.com/document/d/1HVwbNL1o4NDArG4Q9gUk8yUCw7APalXNn1ti0SFJx1M/edit?tab=t.0)
+- [4] [Decomposition of 4X Strategy to 192 mechanics](https://docs.google.com/document/d/1C0O_70-FBD9IKiDsfzUNjnFCVBbXvpw3Q4XOLyE42wo/edit?usp=sharing)
+- [5] В оформлении.
 
 ### My Game Documentation Examples
 - [Game Decomposition "Fisch" (Roblox) (RU)](https://docs.google.com/document/d/1xinfwa7NEBDfI9mnXTgu8eVhA6cZ0KNSS7dc9Ss72Yw/edit?usp=sharing)
@@ -53,7 +61,7 @@
 ### Other GD Projects
 - [Concept Document "Color Farm" (RU)](https://docs.google.com/document/d/1ZWd8mLBdHlb5rVn1TvgTNpfV_9rJHzwGC3LHfPhfY0k/edit?usp=sharing)
 - [Pitch Document "Color Farm" (RU)](https://docs.google.com/presentation/d/1DI7mUia1IZa7w_8IZ3LH2mIQ2_iSdP4eaKsVYGiKZ_4/edit?usp=sharing)
-- [One-Pager "Color Farm" (RU)](https://shelled-eyelash-df1.notion.site/Gardenscapes-MDA-729f2c41ca16461e8eb0209de52238e3)
+- [MDA Decomposition - Gardenscapes (RU)](https://shelled-eyelash-df1.notion.site/Gardenscapes-MDA-729f2c41ca16461e8eb0209de52238e3)
 - [Play-test spreadsheet (RU)](https://docs.google.com/spreadsheets/d/1ujytySaGZqq9f3t0JxOiUuQojoay-qQMe3TlXy367zM/edit?usp=sharing)
 - [Play-test results presentation (RU)](https://docs.google.com/presentation/d/1kha7DCXmZ0djznM3_Z1iUaCH48dhl_kbIuRjk34ygvo/edit#slide=id.g301b8157a55_0_486)
 
