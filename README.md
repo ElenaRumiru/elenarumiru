@@ -33,11 +33,11 @@
 - [Game: "Guess the number"](https://github.com/ElenaRumiru/Guess-the-number)
 
 ### My AI pipelines
-- [1] [187 assets with 1 click](https://docs.google.com/document/d/127Q4bjAgrtvtf7D8RvLL-faGt2mJjtL-A50947vtkTs/edit?usp=sharing)
-- [2] [AI thumbnail Studio (Goal is CTR 1%+)](https://docs.google.com/document/d/1idkwmk6hu6dOKWa53zoANBbHx2S9sYVTJ-3ofS3o_ac/edit?usp=sharing)
-- [3] [How to create video using only code](https://docs.google.com/document/d/1HVwbNL1o4NDArG4Q9gUk8yUCw7APalXNn1ti0SFJx1M/edit?tab=t.0)
-- [4] [Decomposition of 4X Strategy to 192 mechanics](https://docs.google.com/document/d/1C0O_70-FBD9IKiDsfzUNjnFCVBbXvpw3Q4XOLyE42wo/edit?usp=sharing)
-- [5] [How to create a boardgame book with AI](https://)
+- [Pipeline №1] [187 assets with 1 click](https://docs.google.com/document/d/127Q4bjAgrtvtf7D8RvLL-faGt2mJjtL-A50947vtkTs/edit?usp=sharing)
+- [Pipeline №2] [AI thumbnail conveyor (Goal is CTR 1%+)](https://docs.google.com/document/d/1idkwmk6hu6dOKWa53zoANBbHx2S9sYVTJ-3ofS3o_ac/edit?usp=sharing)
+- [Pipeline №3] [How to create video whithout Gen Models very cheap? ](https://docs.google.com/document/d/1HVwbNL1o4NDArG4Q9gUk8yUCw7APalXNn1ti0SFJx1M/edit?tab=t.0)
+- [Pipeline №4] [Decomposition of 4X Strategy to 192 mechanics during 1,5 hours](https://docs.google.com/document/d/1C0O_70-FBD9IKiDsfzUNjnFCVBbXvpw3Q4XOLyE42wo/edit?usp=sharing)
+- [Pipeline №5] [How to create a boardgame book with AI?](https://docs.google.com/document/d/15QhZlrDWoG6loFeELsoyIAxjEhUZiw2iZhn19SKdX_w/edit?usp=sharing) (TBD)
 
 ### My Game Documentation Examples
 - [Game Decomposition "Fisch" (Roblox) (RU)](https://docs.google.com/document/d/1xinfwa7NEBDfI9mnXTgu8eVhA6cZ0KNSS7dc9Ss72Yw/edit?usp=sharing)
