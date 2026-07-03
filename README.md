@@ -24,7 +24,7 @@
 
 ### My own games (Owner and Developer)
 - Hustle City: Streets - City Life Simulator & GTA-like
-- [Game: "Pets Roll"](https://github.com/ElenaRumiru/roll-pets) and [Demo](https://elenarumiru.github.io/roll-pets/)
+- [Game: "Pets Roll"](https://www.crazygames.com/game/pets-roll-idle-clicker) 
 - [SNOOZE TAG - Roblox (Owner)](https://www.roblox.com/games/123622191911900/SNOOZE-TAG)
 - [Prototype: Time Manager Cafe](https://github.com/ElenaRumiru/BarPrototype) and [Demo](https://elenarumiru.github.io/BarPrototype/)
 - Dragon Go: Mobile Auto Battler
