@@ -26,6 +26,7 @@
 - Hustle City: Streets - City Life Simulator & GTA-like
 - [Game: "Pets Roll"](https://www.crazygames.com/game/pets-roll-idle-clicker) - [Описание кейса](https://wise-emperor-376.notion.site/Pets-Roll-392d24f8ef05818bb8a1f757c9acbbe9?source=copy_link)
 - [SNOOZE TAG - Roblox (Owner)](https://www.roblox.com/games/123622191911900/SNOOZE-TAG)
+- [Prototype: Jumble Word Puzzle](https://elenarumiru.github.io/word-tangle/prototype/) - [Описание кейса](https://elenarumiru.github.io/word-tangle/)
 - [Prototype: Time Manager Cafe](https://github.com/ElenaRumiru/BarPrototype) and [Demo](https://elenarumiru.github.io/BarPrototype/)
 - Dragon Go: Mobile Auto Battler
 - [Game "Code and Magic"](https://github.com/ElenaRumiru/Code-and-magic) and [Demo](https://elenarumiru.github.io/Code-and-magic/)
@@ -57,8 +58,10 @@
 3. Game Designer - Crazy Panda
 - [Testing Assignment](https://drive.google.com/file/d/1vAyFfLdhuZYH4zCh9aznNGWwuGzdz6CP/view?usp=sharing)
 - [Final Decision](https://docs.google.com/document/d/1Dq9A7cdGAhdh5uzIZbFT-fsuHkkpkCks5RKkqh42x3k/edit?usp=sharing)
-
-
+4. Senior Balance Game Designer - MULTICAST GAMES
+- [Testing Assignment](https://drive.google.com/file/d/1aczj7xygAX0NRTS81QyCM9ilif0yMZOg/view?usp=sharing)
+- [Final Decision + Prototype](https://elenarumiru.github.io/word-tangle/)
+- 
 ### Other GD Projects
 - [Concept Document "Color Farm" (RU)](https://docs.google.com/document/d/1ZWd8mLBdHlb5rVn1TvgTNpfV_9rJHzwGC3LHfPhfY0k/edit?usp=sharing)
 - [Pitch Document "Color Farm" (RU)](https://docs.google.com/presentation/d/1DI7mUia1IZa7w_8IZ3LH2mIQ2_iSdP4eaKsVYGiKZ_4/edit?usp=sharing)
