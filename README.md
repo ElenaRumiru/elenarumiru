@@ -63,7 +63,7 @@
 - [Final Decision + Prototype](https://elenarumiru.github.io/word-tangle/)
 - 
 ### Other GD Projects
-- [Concept Document "Color Farm" (RU)](https://docs.google.com/document/d/1ZWd8mLBdHlb5rVn1TvgTNpfV_9rJHzwGC3LHfPhfY0k/edit?usp=sharing)
+- [Concept Document "Color Farm" (RU)](https://drive.google.com/file/d/1f-8ipbyXIX9A24AE-yVRffZA2IWgK1Fs/view?usp=sharing)
 - [Pitch Document "Color Farm" (RU)](https://docs.google.com/presentation/d/1DI7mUia1IZa7w_8IZ3LH2mIQ2_iSdP4eaKsVYGiKZ_4/edit?usp=sharing)
 - [MDA Decomposition - Gardenscapes (RU)](https://shelled-eyelash-df1.notion.site/Gardenscapes-MDA-729f2c41ca16461e8eb0209de52238e3)
 - [Play-test spreadsheet (RU)](https://docs.google.com/spreadsheets/d/1ujytySaGZqq9f3t0JxOiUuQojoay-qQMe3TlXy367zM/edit?usp=sharing)
